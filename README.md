@@ -1,6 +1,7 @@
-# devils
-My new project 
+instahack
+Donate
 
-How To Use
+[*] Hack instagram accounts use bruteforce
+[*] for more proxy - go to https://www.torvpn.com/en/proxy-list
+alt tag
 
-$ pkg update $ pkg upgrade $ pkg install python2 $ pkg install ruby $ gem install lolcat $ pkg install git $ git clone https://github.com/Hanzelnutt/instahack $ cd instahack $ bash instahack
